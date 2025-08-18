@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OneDrive / Temporary
+~$*
+*.tmp
+
+# Python / Node / Build
+__pycache__/
+node_modules/
+*.log
